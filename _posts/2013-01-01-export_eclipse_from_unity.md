@@ -19,10 +19,9 @@ Unity 4.0 では Unity から Eclipse プロジェクトを出力する機能が
 
 以下の例は、フォルダ選択ダイアログを表示して、そのフォルダの中に Eclipse プロジェクトを出力するというものです。
 
-```
-@MenuItem("Custom/Export Eclipse Project")
-static function CustomBuildMenu() {
-  var dest = EditorUtility.SaveFolderPanel("Export Eclipse project", "", "");
-  BuildPipeline.BuildPlayer(null, dest, BuildTarget.Android, BuildOptions.AcceptExternalModificationsToPlayer);
-}
-```
+    @MenuItem("Custom/Export Eclipse Project")
+    static function CustomBuildMenu() {
+      var dest = EditorUtility.SaveFolderPanel("Export Eclipse project", "", "");
+      BuildPipeline.BuildPlayer(null, dest, BuildTarget.Android,
+        BuildOptions.AcceptExternalModificationsToPlayer);
+    }

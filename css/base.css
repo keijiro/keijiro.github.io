@@ -76,24 +76,55 @@ a {
 
 .content p {
   line-height: 1.7em;
+  margin: 1.5em 0;
 }
 
-.content p code {
+.content pre {
   font-size: small;
   background-color: #eeeeee;
-  border: 1px solid #777777;
-  border-radius: 3px;
-  padding: 2px 3px;
+  padding: 0.3em;
 }
 
 .content .byline {
   margin-bottom: 5em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #eee;
   font-family: Helvetica, sans-serif;
   color: #777;
 }
 
+.content li {
+  margin-bottom: 0.5em;
+  line-height: 1.4em;
+}
 
+.content .listing {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, sans-serif;
+}
+.content .listing li {
+  font-size: small;
+  list-style: none;
+  padding: 0.25em;
+  margin: 1em 0;
+  color: #777777;
+  border-bottom: 1px solid #eee;
+}
+.content .listing li span {
+    float: right;
+}
+.content .listing a {
+  text-decoration: none;
+}
 
+.content hr {
+  border: 0;
+  height: 6px;
+  background-image: url("/images/hr.png");
+  background-repeat: repeat-x;
+  margin: 4em 3em;
+}
 
 
 
@@ -104,18 +135,6 @@ a {
   max-width: 100%;
 }
 
-.content hr {
-  border: 0;
-  height: 6px;
-  background-image: url("/images/hr.png");
-  background-repeat: repeat-x;
-  margin: 2em 3em;
-}
-
-.content li {
-  margin-bottom: 10px;
-  line-height: 1.4em;
-}
 
 .content blockquote {
   font-style: italic;
