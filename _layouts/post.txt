@@ -10,3 +10,8 @@ layout: layout
   </section>
   {{ content }}
 </section>
+<section class="footer">
+  <a href="{{ site.profile_url }}">
+    <img src="{{ site.gravatar_url }}?s=60" height="30" width="30" class="avatar" />
+  </a>
+</section>

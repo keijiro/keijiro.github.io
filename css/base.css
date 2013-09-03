@@ -9,7 +9,7 @@ a {
 
 .content {
   max-width: 40em;
-  margin: 50px auto;
+  margin: 3em auto;
 }
 
 .content h1 {
@@ -124,6 +124,12 @@ a {
   background-image: url("/images/hr.png");
   background-repeat: repeat-x;
   margin: 4em 3em;
+}
+
+.footer {
+  max-width: 40em;
+  margin: 5em auto 2em auto;
+  text-align: center;
 }
 
 
