@@ -132,12 +132,15 @@ a {
   text-align: center;
 }
 
-
 .content img {
   border: 0;
   max-width: 100%;
   display: block;
   margin: 2em auto;
+}
+
+.videoframe {
+  text-align: center;
 }
 
 
