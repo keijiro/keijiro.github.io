@@ -24,4 +24,4 @@ iOS/Android においてテクスチャ圧縮は必須ですが、画質の著�
 
 ---
 
-OpenGL ES 3.0 では [ETC2](http://en.wikipedia.org/wiki/Ericsson_Texture_Compression) が対応必須になっているらしいので、これで状況は若干まともになるのではないかと思います。個人的には [ATSC](http://en.wikipedia.org/wiki/Adaptive_Scalable_Texture_Compression) の義務化に期待したいところですが。
+OpenGL ES 3.0 では [ETC2](http://en.wikipedia.org/wiki/Ericsson_Texture_Compression) が対応必須になっているらしいので、これで状況は若干まともになるのではないかと思います。個人的には [ASTC](http://en.wikipedia.org/wiki/Adaptive_Scalable_Texture_Compression) の義務化に期待したいところですが。
