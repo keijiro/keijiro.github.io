@@ -17,7 +17,7 @@ category: posts
 - [github.com/keijiro/unity-perlin](https://github.com/keijiro/unity-perlin)
 - [github.com/keijiro/unity-emgen](https://github.com/keijiro/unity-emgen)
 - [github.com/keijiro/unity-audio-spectrum](https://github.com/keijiro/unity-audio-spectrum)
-- [github.com/keijiro/unity-sunburst-fx](https://github.com/keijiro/unity-sunburst-fx)
+- [github.com/keijiro/unity-sunburst-effects](https://github.com/keijiro/unity-sunburst-effects)
 - [github.com/keijiro/unity-midi-cc-input](https://github.com/keijiro/unity-midi-cc-input)
 - [github.com/keijiro/unity-basic-shaders](https://github.com/keijiro/unity-basic-shaders)
 - [github.com/keijiro/unity-primitive-mesh-asset-creator](https://github.com/keijiro/unity-primitive-mesh-asset-creator)
