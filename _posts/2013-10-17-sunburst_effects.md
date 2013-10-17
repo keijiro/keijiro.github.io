@@ -4,7 +4,7 @@ title: Sunburst effects (Unity, C#)
 category: posts
 ---
 
-<div class=“video frame”><iframe src="//player.vimeo.com/video/76949095" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="video frame"><iframe src="//player.vimeo.com/video/76949095" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 [github.com/keijiro/unity-sunburst-effects](https://github.com/keijiro/unity-sunburst-effects)
 
