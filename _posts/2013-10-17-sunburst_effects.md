@@ -4,7 +4,7 @@ title: Sunburst effects (Unity, C#)
 category: posts
 ---
 
-<div class="video frame"><iframe src="//player.vimeo.com/video/76949095" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div  class="video frame"><iframe src="//player.vimeo.com/video/76949095" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 [github.com/keijiro/unity-sunburst-effects](https://github.com/keijiro/unity-sunburst-effects)
 
@@ -13,4 +13,3 @@ category: posts
 フラットな絵作りに合うよう作ったものなので、恐らく、普通の絵作りにはマッチしない。
 
 上の動画にあるように、動きを制御するいくつかのパラメーターを持っている。これらのパラメーターと transform の動きを組み合わせることによって、色々と面白い効果を与えることができる。
-
