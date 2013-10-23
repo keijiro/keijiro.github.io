@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unity を使った生成的なアニメーション表現
+title: 生成的なアニメーション表現 (Unity, C#)
 category: posts
 ---
 

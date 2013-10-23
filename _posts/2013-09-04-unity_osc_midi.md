@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unity と OSC, MIDI
+title: OSC, MIDI プラグイン (Unity)
 category: posts
 ---
 

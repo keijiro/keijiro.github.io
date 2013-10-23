@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unity を使ったプロジェクションマッピング
+title: プロジェクションマッピング実験 (Unity)
 category: posts
 ---
 

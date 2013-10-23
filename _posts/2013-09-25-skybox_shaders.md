@@ -1,6 +1,6 @@
 ---
 layout: post
-title: プリミティブな skybox シェーダー
+title: プリミティブな skybox シェーダー (Unity)
 category: posts
 ---
 

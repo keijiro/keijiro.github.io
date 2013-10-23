@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sunburst effects (Unity, C#)
+title: Sunburst エフェクト (Unity, C#)
 category: posts
 ---
 

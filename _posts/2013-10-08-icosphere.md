@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Icosphere
+title: Icosphere (Unity, C#)
 category: posts
 ---
 

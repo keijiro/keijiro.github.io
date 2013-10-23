@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arduino を使ったサスティンペダル MIDI 変換
+title: サスティンペダル MIDI 変換器 (Arduino)
 category: posts
 ---
 

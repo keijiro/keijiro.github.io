@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ビジュアライザ向けオーディオスペクトル分析 (Unity, C#)
+title: ビジュアライザ向けスペクトル分析 (Unity, C#)
 category: posts
 ---
 
