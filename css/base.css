@@ -98,26 +98,6 @@ a {
   line-height: 1.7em;
 }
 
-.content .listing {
-  margin: 0;
-  padding: 0;
-  font-family: Helvetica, sans-serif;
-}
-.content .listing li {
-  font-size: small;
-  list-style: none;
-  padding: 0.25em;
-  margin: 1em 0;
-  color: #777777;
-  border-bottom: 1px solid #eee;
-}
-.content .listing li span {
-    float: right;
-}
-.content .listing a {
-  text-decoration: none;
-}
-
 .content hr {
   border: 0;
   height: 6px;
@@ -143,7 +123,6 @@ a {
   text-align: center;
 }
 
-
 .content blockquote {
   font-style: italic;
   font-size: 14px;
@@ -159,3 +138,52 @@ a {
       text-align: right;
       color: #111;
       font-style: normal; }
+
+
+
+
+
+
+.toppage {
+  width: 800px;
+  margin: 3em auto;
+  overflow:auto;
+  font-family: "Hiragino Kaku Gothic ProN", Helvetica, sans-serif;
+}
+
+.toppage a {
+  text-decoration: none;
+}
+
+.sidebar {
+  width: 200px;
+  float: left;
+}
+
+.sidebar p {
+  font-size: small;
+  line-height: 150%;
+}
+
+.index {
+  float: right;
+  width: 520px;
+}
+
+.index .listing {
+  margin: 0;
+  padding: 0;
+}
+
+.index .listing li {
+  font-size: small;
+  list-style: none;
+  padding: 0.2em 0.8em;
+  margin: 0.75em 0;
+  color: #777777;
+  border-bottom: 1px solid #eee;
+}
+
+.index .listing li span {
+  float: right;
+}
