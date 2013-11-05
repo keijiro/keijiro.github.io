@@ -4,7 +4,7 @@ title: MIDI Input プラグイン (Unity, C#)
 category: posts
 ---
 
-<div  class="videoframe"><iframe src="//player.vimeo.com/video/78024247" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="videoframe"><iframe src="//player.vimeo.com/video/78024247" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 [github.com/keijiro/unity-midi-input](https://github.com/keijiro/unity-midi-input)
 
