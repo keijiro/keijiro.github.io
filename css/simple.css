@@ -2,6 +2,19 @@
 
 @import url(http://fonts.googleapis.com/css?family=Terminal+Dosis:200);
 
+@media screen {
+    body {
+        max-width: 500px;
+        margin: 4em auto 2em auto;
+    }
+}
+
+@media handheld {
+    body {
+        margin: 3em 3em 2em 3em;
+    }
+}
+
 body {
     font-family: 'Terminal Dosis', sans-serif;
     background: white;
@@ -13,15 +26,8 @@ a {
 }
 
 .header {
-    max-width: 500px;
-    margin: 4em auto 2em auto;
     font-size: small;
     text-align: right;
-}
-
-.content {
-    max-width: 500px;
-    margin: 4em auto 2em auto;
 }
 
 .content p {
