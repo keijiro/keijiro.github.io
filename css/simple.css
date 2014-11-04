@@ -25,11 +25,11 @@ a {
     text-decoration: none;
 }
 
-.header {
+header {
     font-size: small;
     text-align: right;
 }
 
-.content p {
+article p {
     line-height: 1.5em;
 }
