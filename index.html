@@ -1,22 +1,23 @@
----
-layout: layout
-title: "*"
----
-
-<section class="toppage">
-  <section class="sidebar">
-    <p><img src="images/profile.jpg" alt="Photo"></p>
-    <p>高橋 啓治郎</p>
-    <p>ゲーム、映像、音などの分野を中心にいろいろやっているプログラマーです。最近は Unity の中の人としての活動が多め。</p>
-    <p>詳しい経歴などは<a href="https://gist.github.com/keijiro/3221531">こちら</a>をどうぞ。</p>
-  </section>
-  <section class="index">
-    <ul class="listing">
-      {% for post in site.posts %}
-      <li>
-        <span>{{ post.date | date: "%B %e, %Y" }}</span><a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-  </section>
-</section>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+    <head>
+        <meta charset='utf-8'>
+        <title>Keijiro - Info</title>
+        <link rel="stylesheet" href="/css/simple.css" type="text/css" />
+    </head>
+    <body>
+        <div class="header">
+            <p><a href=".">Info</a> / <a href=".">Projects</a> / <a href=".">Experiments</a></p>
+        </div>
+        <div class="content">
+            <p>Keijiro Takahashi</p>
+            <p>I’m a game developer and software engineer. I worked at <a href="http://scei.co.jp">Sony Computer Entertainment</a> for ten years, and currently working for <a href="http://unity3d.com">Unity Technologies</a>. I have <a href="https://github.com/keijiro?tab=repositories">many open source projects</a>, and devote some portion of time to them. Sometimes I collaborate with musicians and make <a href="https://www.youtube.com/watch?v=jg0v-8Zb-qo">visual effects</a> for their live concerts.</p>
+            <p>Also I'm a musician, as formerly known as <a href="https://youtube.com/denkitribe">Denkitribe</a>. My main interest is in transforming synthesized sound into musical pieces. If you're interested, visit my <a href="https://youtube.com/denkitribe">YouTube</a> and <a href="https://soundcloud.com/denkitribe">Soundcloud</a> page.</p>
+            <p><a href="https://gist.github.com/keijiro/3221531">Résumé (Japanese)</a></p>
+            <p><a href="https://facebook.com/keijiro-tk">Facebook</a> / <a href="https://twitter.com/_kzr">Twitter</a></p>
+            <p><a href="https://github.com/keijiro">GitHub</a> / <a href="https://vimeo.com/radiumsoftware">Vimeo</a></p>
+            <p><a href="https://youtube.com/denkitribe">YouTube</a> / <a href="https://soundcloud.com/denkitribe">Soundcloud</a></p>
+            <p><a href="mailto:keijiro@gmail.com">Enqueries</a></p>
+        </div>
+    </body>
+</html>

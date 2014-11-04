@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@import url(http://fonts.googleapis.com/css?family=Terminal+Dosis:200);
+
+body {
+    font-family: 'Terminal Dosis', sans-serif;
+}
+
+a {
+    color: #227ce8;
+    text-decoration: none;
+}
+
+.header {
+    max-width: 500px;
+    margin: 4em auto 2em auto;
+    font-size: small;
+    text-align: right;
+}
+
+.content {
+    max-width: 500px;
+    margin: 4em auto 2em auto;
+}
+
+.content p {
+    line-height: 1.5em;
+}
