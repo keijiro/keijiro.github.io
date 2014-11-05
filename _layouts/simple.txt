@@ -12,10 +12,12 @@
         <meta name="description" content="{{ site.description }}" />
         <link rel="stylesheet" href="/css/simple.css" type="text/css" />
     </head>
-    <header>
-      <p><a href="/index.html">Info</a> / <a href=".">Projects</a> / <a href=".">Experiments</a></p>
-    </header>
     <body>
-    {{ content }}
+      <header>
+        <p><a href="/index.html">Info</a> / <a href=".">Projects</a> / <a href=".">Experiments</a></p>
+      </header>
+      <article>
+      {{ content }}
+      </article>
     </body>
 </html>
