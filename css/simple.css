@@ -22,3 +22,12 @@ header {
 article p {
     line-height: 1.5em;
 }
+
+.catalog-item {
+    height: 200px;
+    line-height: 180px;
+}
+
+.catalog-thumb {
+    float: right;
+}

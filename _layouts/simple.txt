@@ -13,7 +13,7 @@
     </head>
     <body>
       <header>
-        <p><a href="/index.html">Info</a> / <a href=".">Projects</a> / <a href=".">Experiments</a></p>
+        <p><a href="/index.html">Info</a> / <a href="/projects.html">Projects</a>
       </header>
       <article>
       {{ content }}
