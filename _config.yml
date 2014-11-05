@@ -1,12 +1,6 @@
 safe: true
 lsi: false
-pygments: true
-permalink: /posts/:title
+permalink: none
 name: Keijiro Takahashi
-url: http://keijiro.github.io
-description: Some articles
-twitter: _kzr
-github: keijiro
-gravatar_url: http://gravatar.com/avatar/13ffb6ada421d0d4731b5ed35d694191
-profile_url: http://keijiro.github.io/
-markdown: kramdown
+baseurl: http://keijiro.github.io
+description: Keijiro Takahashi Web Site
