@@ -13,7 +13,7 @@ musicians and make [visual effects][Nyolfen] for their live concerts.
 
 Also I'm a musician, as formerly known as [Denkitribe][YouTube]. My main
 interest is in transforming synthesized sound into musical pieces. If you're
-interested, visit my [YouTube][YouTube] and [Soundcloud][Soundcloud] page.
+interested, visit my [Soundcloud][Soundcloud] and [YouTube][YouTube] page.
 
 [Résumé (Japanese)][Resume]
 
@@ -21,7 +21,7 @@ interested, visit my [YouTube][YouTube] and [Soundcloud][Soundcloud] page.
 
 [GitHub][GitHub] / [Vimeo][Vimeo]
 
-[YouTube][YouTube] / [Soundcloud][Soundcloud]
+[Soundcloud][Soundcloud] / [YouTube][YouTube]
 
 [Enquiries](mailto:keijiro@gmail.com)
 
