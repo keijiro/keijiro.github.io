@@ -9,7 +9,7 @@ or something like that, but actually I'm doing [several things] related to
 audio/visuals. See my [dev log] or [GitHub repos] if you're interested.
 
 Oh did I mention that I have a [Twitter] and a [Facebook] account? There are
-also a [YouTube] and a [Vimeo] channel. Sometimes I make music and drop to
+also a [YouTube] and a [Vimeo] channel. Sometimes I make music and share on
 [SoundCloud].
 
 You can ping me via [Twitter] or [Facebook], or in case of preferring good old
