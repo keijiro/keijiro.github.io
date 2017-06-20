@@ -12,7 +12,7 @@ Oh did I mention that I have a [Twitter] and a [Facebook] account? There are
 also a [YouTube] and a [Vimeo] channel. Sometimes I make music and share on
 [SoundCloud].
 
-You can ping me via [Twitter] or [Facebook], or in case of preferring good old
+You can ping me via [Twitter]/[Facebook], or in case of preferring good old
 email, drop to [here]!
 
 [Unity]: https://unity3d.com
