@@ -5,34 +5,25 @@ title: Info
 
 Keijiro Takahashi
 
-I’m a game developer and software engineer. I worked at [Sony Computer
-Entertainment][SCEI] for ten years, and currently working for [Unity
-Technologies][Unity]. I have [many open source projects][Repos], and devote a
-substantial portion of time to developing them. Sometimes I collaborate with
-musicians and make [visual effects][Nyolfen] for their live concerts.
+I guess you're curious about me because I use [Unity], do [holographic shows]
+or something like that, but actually I'm doing [several things] related to
+audio/visuals. See my [dev log] and [GitHub repos] if you're interested.
 
-Also I'm a musician, as formerly known as [Denkitribe][YouTube]. My main
-interest is in transforming synthesized sound into musical pieces. If you're
-interested, visit my [Soundcloud][Soundcloud] and [YouTube][YouTube] page.
+Oh did I mention that I have a [Twitter] and a [Facebook] account? There are
+also a [YouTube] and a [Vimeo] channel. Sometimes I make music and drop them
+to [SoundCloud].
 
-[Résumé (Japanese)][Resume]
+You can ping me via [Twitter] or [Facebook], but if you prefer using good old
+email, drop to [here]!
 
-[Facebook][Facebook] / [Twitter][Twitter]
-
-[GitHub][GitHub] / [Vimeo][Vimeo]
-
-[Soundcloud][Soundcloud] / [YouTube][YouTube]
-
-[Enquiries](mailto:keijiro@gmail.com)
-
-[SCEI]:       http://scei.co.jp
-[Unity]:      http://unity3d.com
-[Repos]:      https://github.com/keijiro?tab=repositories
-[Nyolfen]:    https://www.youtube.com/watch?v=jg0v-8Zb-qo
-[YouTube]:    https://youtube.com/denkitribe
+[Unity]: https://unity3d.com
+[holographic shows]: https://radiumsoftware.tumblr.com/tagged/vrdgh
+[several things]: https://radiumsoftware.tumblr.com/archive
+[dev log]: https://radiumsoftware.tumblr.com/
+[GitHub repos]: https://github.com/keijiro
+[Twitter]: https://twitter.com/_kzr
+[Facebook]: https://facebook.com/keijiro-tk
+[YouTube]: https://youtube.com/denkitribe
+[Vimeo]: https://vimeo.com/keijiro
 [Soundcloud]: https://soundcloud.com/denkitribe
-[Resume]:     https://gist.github.com/keijiro/3221531
-[Facebook]:   https://facebook.com/keijiro-tk
-[Twitter]:    https://twitter.com/_kzr
-[GitHub]:     https://github.com/keijiro
-[Vimeo]:      https://vimeo.com/radiumsoftware
+[here]: mailto:keijiro@gmail.com
