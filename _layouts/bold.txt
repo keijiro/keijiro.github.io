@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <title>
+        {{ site.name }}
+        </title>
+        <meta name="author" content="{{ site.name }}" />
+        <link rel="stylesheet" href="/css/bold.css" type="text/css" />
+    </head>
+    <body>
+      <article>
+      {{ content }}
+      </article>
+    </body>
+</html>
