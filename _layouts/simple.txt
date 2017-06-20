@@ -12,9 +12,6 @@
         <link rel="stylesheet" href="/css/simple.css" type="text/css" />
     </head>
     <body>
-      <header>
-        <p><a href="/index.html">Info</a> / <a href="/projects.html">Projects</a>
-      </header>
       <article>
       {{ content }}
       </article>
