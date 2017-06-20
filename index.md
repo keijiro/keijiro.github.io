@@ -1,6 +1,5 @@
 ---
-layout: simple
-title: Keijiro Takahashi
+layout: bold
 ---
 
 Keijiro Takahashi
