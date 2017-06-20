@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Info
+title: Keijiro Takahashi
 ---
 
 Keijiro Takahashi
