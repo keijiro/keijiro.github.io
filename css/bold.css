@@ -5,6 +5,7 @@
 body {
     margin: 2em;
     font-family: 'Open Sans', sans-serif;
+    font-style: italic;
     background: black;
     background-image: url("/images/bg.jpg");
     color: white;
