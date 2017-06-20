@@ -6,13 +6,13 @@ Keijiro Takahashi
 
 I guess you're curious about me because I use [Unity], do [holographic shows]
 or something like that, but actually I'm doing [several things] related to
-audio/visuals. See my [dev log] and [GitHub repos] if you're interested.
+audio/visuals. See my [dev log] or [GitHub repos] if you're interested.
 
 Oh did I mention that I have a [Twitter] and a [Facebook] account? There are
-also a [YouTube] and a [Vimeo] channel. Sometimes I make music and drop them
-to [SoundCloud].
+also a [YouTube] and a [Vimeo] channel. Sometimes I make music and drop to
+[SoundCloud].
 
-You can ping me via [Twitter] or [Facebook], but if you prefer using good old
+You can ping me via [Twitter] or [Facebook], or in case of preferring good old
 email, drop to [here]!
 
 [Unity]: https://unity3d.com
