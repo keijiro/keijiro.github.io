@@ -6,6 +6,7 @@ body {
     margin: 2em;
     font-family: 'Open Sans', sans-serif;
     background: black;
+    background-image: url("/image/bg.jpg");
     color: white;
 }
 
