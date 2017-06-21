@@ -12,7 +12,7 @@ channel] if you're interested.
 Oh did I mention that I also create music? Not often but sometimes I share
 them on [SoundCloud] and [YouTube].
 
-You can ping me via [Twitter]/[Facebook]. In case of preferring good old
+You can ping me via [Twitter] or [Facebook]. In case of preferring good old
 email, drop at [here]!
 
 [Unity]: https://unity3d.com
