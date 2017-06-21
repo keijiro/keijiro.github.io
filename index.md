@@ -5,24 +5,24 @@ layout: bold
 Keijiro Takahashi
 
 I guess you're curious about me because I use [Unity], do [holographic shows]
-or something like that, but actually I'm doing [several things] related to
-audio/visuals. See my [dev log] or [GitHub repos] if you're interested.
+or something of the sort, but actually I create [several things] related to
+audio/visual. Check out my [dev log], [GitHub repos] and [Vimeo channel] if
+you're interested.
 
-Oh did I mention that I have a [Twitter] and a [Facebook] account? There are
-also a [YouTube] and a [Vimeo] channel. Sometimes I make music and share on
-[SoundCloud].
+Oh did I mention that I also create music? Not often but sometimes I share them
+on [SoundCloud] and [YouTube].
 
-You can ping me via [Twitter]/[Facebook], or in case of preferring good old
-email, drop to [here]!
+You can ping me via [Twitter]/[Facebook]. In case of preferring good old email,
+drop at [here]!
 
 [Unity]: https://unity3d.com
 [holographic shows]: https://radiumsoftware.tumblr.com/tagged/vrdgh
 [several things]: https://radiumsoftware.tumblr.com/archive
 [dev log]: https://radiumsoftware.tumblr.com/
 [GitHub repos]: https://github.com/keijiro
+[Vimeo channel]: https://vimeo.com/keijiro
+[Soundcloud]: https://soundcloud.com/denkitribe
+[YouTube]: https://youtube.com/denkitribe
 [Twitter]: https://twitter.com/_kzr
 [Facebook]: https://facebook.com/keijiro-tk
-[YouTube]: https://youtube.com/denkitribe
-[Vimeo]: https://vimeo.com/keijiro
-[Soundcloud]: https://soundcloud.com/denkitribe
 [here]: mailto:keijiro@gmail.com
